@@ -1,4 +1,4 @@
-# WinTopTrader
+# WinTopTrader 2025
 
 
 [kantu](https://github.com/wintops/kantu)
