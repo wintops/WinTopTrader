@@ -1,5 +1,7 @@
-# WinTopTrader 2025
+# WinTopTrader 2026
 
+
+## Windows
 
 [kantu](https://github.com/wintops/kantu)
 
