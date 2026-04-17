@@ -6,6 +6,10 @@
 
 [wasmchart](https://github.com/wintops/wasmchart)
 
+Demo
+
+https://wintops.github.io/2026/?410/000001/1
+
 
 ## Windows
 
@@ -13,6 +17,9 @@
 
 [ctp-pascal](https://github.com/wintops/ctp-pascal)
 
+MiniChart 
+
+https://github.com/wintops/WinTopTrader/releases/tag/20260410
 
 ## Links
 
